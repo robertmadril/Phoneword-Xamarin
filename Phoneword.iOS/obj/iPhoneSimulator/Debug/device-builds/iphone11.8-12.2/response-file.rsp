@@ -1,5 +1,5 @@
---cache=/Users/robertmadril/Documents/xamarin/Phoneword/Phoneword.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache
---sim=/Users/robertmadril/Documents/xamarin/Phoneword/Phoneword.iOS/bin/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/Phoneword.iOS.app
+--cache=/Users/robertmadril/Documents/xamarin/XamarinPractice2/Phoneword.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache
+--sim=/Users/robertmadril/Documents/xamarin/XamarinPractice2/Phoneword.iOS/bin/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/Phoneword.iOS.app
 --executable=Phoneword.iOS
 --debug
 --sgen-conc
@@ -10,10 +10,10 @@
 --aot-options=-O=-float32
 --http-message-handler=NSUrlSessionHandler
 --abi=x86_64
---symbollist=/Users/robertmadril/Documents/xamarin/Phoneword/Phoneword.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-symbols.list
+--symbollist=/Users/robertmadril/Documents/xamarin/XamarinPractice2/Phoneword.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-symbols.list
 --dsym=no
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll
--r=/Users/robertmadril/Documents/xamarin/Phoneword/Phoneword/bin/Debug/netstandard2.0/Phoneword.dll
+-r=/Users/robertmadril/Documents/xamarin/XamarinPractice2/Phoneword/bin/Debug/netstandard2.0/Phoneword.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Numerics.dll
@@ -200,7 +200,7 @@
 -r=/Users/robertmadril/.nuget/packages/xamarin.forms/3.6.0.264807/lib/Xamarin.iOS10/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
 -r=/Users/robertmadril/.nuget/packages/xamarin.forms/3.6.0.264807/lib/Xamarin.iOS10/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
 -r=/Users/robertmadril/.nuget/packages/xamarin.forms/3.6.0.264807/lib/Xamarin.iOS10/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
--r=/Users/robertmadril/Documents/xamarin/Phoneword/Phoneword/bin/Debug/netstandard2.0/Phoneword.dll
+-r=/Users/robertmadril/Documents/xamarin/XamarinPractice2/Phoneword/bin/Debug/netstandard2.0/Phoneword.dll
 --target-framework=Xamarin.iOS,v1.0
---root-assembly=/Users/robertmadril/Documents/xamarin/Phoneword/Phoneword.iOS/bin/iPhoneSimulator/Debug/Phoneword.iOS.exe
+--root-assembly=/Users/robertmadril/Documents/xamarin/XamarinPractice2/Phoneword.iOS/bin/iPhoneSimulator/Debug/Phoneword.iOS.exe
 

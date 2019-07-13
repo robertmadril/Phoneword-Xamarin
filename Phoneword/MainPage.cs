@@ -28,7 +28,7 @@ namespace Phoneword
 
             panel.Children.Add(phoneNumberText = new Entry
             {
-                Text = "1-855-XAMARIN",
+                Text = "1-855-TESTCODE",
             });
 
             panel.Children.Add(translateButton = new Button
