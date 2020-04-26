@@ -644,10 +644,11 @@
   },
   "libraries": {
     "System.Numerics.Vectors/4.5.0": {
-      "sha512": "nATsBTD2CKr4AYN6eRszhX4sptImWmBJwB/U6XKCWWfnCcrTBw8XSCm3QA9gjppkHTr8OkXUY21MR91D3QZXsw==",
+      "sha512": "QQTlPTl06J/iiDbJCiepZ4H//BVraReU4O4EoRw1U02H5TLUIT7xn3GnDp9AXPSlJUDyFs4uWjWafNX6WrAojQ==",
       "type": "package",
       "path": "system.numerics.vectors/4.5.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -690,10 +691,11 @@
       ]
     },
     "Xamarin.Essentials/1.0.1": {
-      "sha512": "TUsMSXqdLEZlx0O3EcWMwOF5e8X3Gh0GX28FlH3q8iyKAQBYd8tV+Ja7tHMplf7D8V4NVCG9ELqx2nk/jPWPew==",
+      "sha512": "cGSje2LlYsCdscPt2zAG4e0Zzr08zc21Cj4DAMub3GR37lc/vzAVwGxco8NeCSzcZs147wYbXkFCXwOr4LUO9A==",
       "type": "package",
       "path": "xamarin.essentials/1.0.1",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "lib/monoandroid71/Xamarin.Essentials.dll",
         "lib/monoandroid71/Xamarin.Essentials.pdb",
@@ -702,6 +704,7 @@
         "lib/monoandroid80/Xamarin.Essentials.pdb",
         "lib/monoandroid80/Xamarin.Essentials.xml",
         "lib/monoandroid81/Xamarin.Essentials.dll",
+        "lib/monoandroid81/Xamarin.Essentials.dll.mdb",
         "lib/monoandroid81/Xamarin.Essentials.pdb",
         "lib/monoandroid81/Xamarin.Essentials.xml",
         "lib/netstandard1.0/Xamarin.Essentials.dll",
@@ -723,10 +726,11 @@
       ]
     },
     "Xamarin.Forms/3.6.0.264807": {
-      "sha512": "T7gYS3PoGNtp6D7GAX7fF4QzR7NC36NNQSiuEb5TXO8rEqkZGwpC4u/6S62rH0wL3dabWNVpJPPnL5jZvWeoVg==",
+      "sha512": "PbnXpStyxNYJzPrXXMW17F4YeMsFAs6YT9LL2vxObDWCGtaKkLia4UyBPF3Qbhy+lQPeap/ijV1Rlvasp4DFiA==",
       "type": "package",
       "path": "xamarin.forms/3.6.0.264807",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "build/MonoAndroid10/proguard.cfg",
         "build/Xamarin.Forms.DefaultItems.props",
@@ -905,11 +909,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/robertmadril/Documents/xamarin/XamarinPractice2/Phoneword.iOS/Phoneword.iOS.csproj",
+      "projectUniqueName": "/Users/robertmadril/Documents/projects/Phoneword-Xamarin/Phoneword.iOS/Phoneword.iOS.csproj",
       "projectName": "Phoneword.iOS",
-      "projectPath": "/Users/robertmadril/Documents/xamarin/XamarinPractice2/Phoneword.iOS/Phoneword.iOS.csproj",
+      "projectPath": "/Users/robertmadril/Documents/projects/Phoneword-Xamarin/Phoneword.iOS/Phoneword.iOS.csproj",
       "packagesPath": "/Users/robertmadril/.nuget/packages/",
-      "outputPath": "/Users/robertmadril/Documents/xamarin/XamarinPractice2/Phoneword.iOS/obj/",
+      "outputPath": "/Users/robertmadril/Documents/projects/Phoneword-Xamarin/Phoneword.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -924,8 +928,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/robertmadril/Documents/xamarin/XamarinPractice2/Phoneword/Phoneword.csproj": {
-              "projectPath": "/Users/robertmadril/Documents/xamarin/XamarinPractice2/Phoneword/Phoneword.csproj"
+            "/Users/robertmadril/Documents/projects/Phoneword-Xamarin/Phoneword/Phoneword.csproj": {
+              "projectPath": "/Users/robertmadril/Documents/projects/Phoneword-Xamarin/Phoneword/Phoneword.csproj"
             }
           }
         }

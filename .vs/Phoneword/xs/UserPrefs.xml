@@ -1,8 +1,9 @@
 ﻿<Properties StartupConfiguration="{9E0084C6-8F6F-48BD-A148-9B2C4987C5E2}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Phoneword/MainPage.cs">
     <Files>
-      <File FileName="Phoneword/App.xaml.cs" Line="1" Column="1" />
-      <File FileName="Phoneword/MainPage.cs" Line="1" Column="1" />
+      <File FileName="Phoneword/App.xaml.cs" Line="30" Column="6" />
+      <File FileName="Phoneword/MainPage.cs" Line="33" Column="1" />
+      <File FileName="Phoneword/App.xaml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,12 +16,9 @@
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Phoneword.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E4346530-C7D4-4AD1-9C9C-8B3ED0290734" />
+  <MonoDevelop.Ide.ItemProperties.Phoneword.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.24F9E36A-FB7F-4DF2-ADBB-0B20D02AFE9D" />
   <MonoDevelop.Ide.ItemProperties.Phoneword.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
